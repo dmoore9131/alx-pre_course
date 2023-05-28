@@ -1,3 +1,3 @@
-my first thing I did 
+My first readme 
 
 
